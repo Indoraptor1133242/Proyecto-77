@@ -1,0 +1,24 @@
+#ig{
+height: 180px;
+width: 180px;
+}
+p{
+    margin-left: 600px;
+    margin-right: 600px;
+    background-color: rgba(128, 128, 128, 0.425);
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+h1{
+    color: rgb(53, 47, 47);
+   
+}
+section{
+    background-color: gainsboro;
+    padding-bottom: 20px;
+    border-radius:50px ;
+}
